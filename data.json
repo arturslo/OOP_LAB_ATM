@@ -1,0 +1,26 @@
+{
+  "ATMData": {
+    "Balance": 2500,
+    "ConfigurationPassword": "123"
+  },
+  "Accounts": [
+    {
+      "FullName": "Janis Vilks",
+      "AccountNumber": "001",
+      "CardPassword": "111",
+      "Balance": 600
+    },
+    {
+      "FullName": "Anna Liepa",
+      "AccountNumber": "002",
+      "CardPassword": "222",
+      "Balance": 300
+    },
+    {
+      "FullName": "Karlis Lapsa",
+      "AccountNumber": "003",
+      "CardPassword": "333",
+      "Balance": 2200
+    }
+  ]
+}
